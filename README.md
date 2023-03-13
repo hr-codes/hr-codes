@@ -22,7 +22,7 @@
 - CakePHP
 - Express
 - Adonis
-- Nexct JS
+- Next JS
 - Node JS
 
 <h2>Stats</h2>
