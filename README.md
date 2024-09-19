@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hr-codes
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in front-end and back-end development
 - 🌱 I’m currently learning Vue JS and front-end languages
 - 📫 How to reach me hectorrsa@outlook.com
 
