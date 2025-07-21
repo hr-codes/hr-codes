@@ -6,6 +6,7 @@
 <h2>Front end technologies</h2>
 
 - Javascript
+- Typescript
 - Vue js 2 e 3x
 - React
 - Vite
